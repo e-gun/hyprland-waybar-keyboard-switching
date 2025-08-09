@@ -1,0 +1,6 @@
+    "custom/keyboard": {
+        "format": "{}  ",
+        "interval": 1,
+        "exec": "$HOME/.config/waybar/modules/input_source.sh",
+        "on-click": "$HOME/.config/waybar/modules/next_layout.sh"
+    },
